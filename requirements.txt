@@ -3,5 +3,6 @@ seaborn
 numpy
 scikit-learn
 dill
-
+xgboot
+# catboost
 -e .

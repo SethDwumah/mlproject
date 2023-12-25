@@ -6,6 +6,7 @@ import os
 from src.logger import logging
 from src.exception import CustomException 
 from src.utils import save_object
+from src.utils import evaluate_models
 
 from sklearn.compose import ColumnTransformer
 from sklearn.impute import SimpleImputer
